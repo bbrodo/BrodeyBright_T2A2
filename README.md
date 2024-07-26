@@ -52,7 +52,7 @@ I didn't use any deadlines on my tasks as I prefer to work at my own pace.
 
 After I finished a task I would move it to the `Testing` section and check for any errors.
 
-Whenever I finished testing the new code I would move the task to the `Done` section and move on to the next task.
+Whenever I finished testing the new code I would move the task to the `Done` section and move on to the next task. 
 
 ![Trello Screenshot](./docs/TRELLO.png)
 ![TRELLO SCREENSHOT](./docs/TRELLO2.png)
